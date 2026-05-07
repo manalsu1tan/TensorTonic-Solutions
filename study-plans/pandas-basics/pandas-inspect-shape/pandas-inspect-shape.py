@@ -6,8 +6,6 @@ def inspect_dataframe(data):
     'dtypes' (dict), 'total_values' (int)
     """
     df = pd.DataFrame(data)
-    new_dict = {}
-
     return {
         "rows" : df.shape[0],
         "cols" : df.shape[1],
