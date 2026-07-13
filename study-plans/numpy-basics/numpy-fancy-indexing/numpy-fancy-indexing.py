@@ -5,8 +5,5 @@ def select_by_index(arr, indices, axis):
     Returns: 2D ndarray of float64
     """
     a = np.array(arr, dtype=np.float64)
-    if axis == 0:
-        return a[indices, :]
-    if axis == 1:
-        return a[:, indices]
+    return np.take(a, indices, axis=axis)
     
