@@ -83,6 +83,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Resetting Index | Set a pandas column as the index, then restore the default integer index while retaining the original values. | https://www.tensortonic.com/study-plans/pandas-basics/pandas-resetting-index |
 | Setting Index | Set a named pandas DataFrame column as the index and report the resulting records and index metadata. | https://www.tensortonic.com/study-plans/pandas-basics/pandas-setting-index |
 | Unstack Long to Wide | Implement Unstack Long to Wide, and return a dict of lists representing the wide-format DataFrame. | https://www.tensortonic.com/study-plans/pandas-basics/pandas-unstack-long-to-wide |
+| Tensor Factory | Create PyTorch tensors with zeros, ones, or a constant fill value using the requested shape and dtype. | https://www.tensortonic.com/study-plans/pytorch-basics/pytorch-tensor-creation |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/manal)
 <!-- tensortonic:end -->
